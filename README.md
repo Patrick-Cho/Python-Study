@@ -5,6 +5,13 @@ basic env setting
 first setting to use git hub remotley
 
 ```
+referece website
+
+https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
+
+```
+
+```
 
 echo "#Python-Study" >> README.md - "" is required when create a file using echo command
  
