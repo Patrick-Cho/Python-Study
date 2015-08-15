@@ -18,4 +18,5 @@ git commit -a
 
 git push git remote add https://github.com/Patrick-Cho/Python-Study.git
 
+git push origin master
 ```
